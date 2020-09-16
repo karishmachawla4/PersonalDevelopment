@@ -1,6 +1,6 @@
 # In python code, given a json object with nested objects, write a function that flattens all the objects to a single key
 # value dictionary. Do not use the lib that actually performs this function. { a:{b:c,d:e} } becomes {a_b:c, a_d:e} ( not, a:"b:c,d:e" }
-
+test
 
 test = {'India': {'Maha': 'Mumbai', 'Guj': 'Gandhi'}}
 
