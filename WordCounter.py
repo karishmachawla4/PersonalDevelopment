@@ -1,3 +1,5 @@
+# Count words in sentence
+
 def wordCounter(string):
     print("Enter string: ")
     counts = {}
