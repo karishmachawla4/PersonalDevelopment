@@ -13,7 +13,7 @@ def flatten(dictinput):
                 res.update({key + '_' + key1: value1})
         else:
             pass
-k
+
     return res
 
 
